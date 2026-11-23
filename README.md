@@ -1,5 +1,8 @@
 # Threat Intelligence Hub
 
+<img width="1891" height="865" alt="Screenshot 2026-11-23 170121" src="https://github.com/user-attachments/assets/1a3b5019-5489-49af-ab0b-650e387e9d88" />
+
+
 A local React + FastAPI defensive threat-intelligence dashboard.
 
 ## Included live lookups
